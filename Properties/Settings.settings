@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VerificationVersion.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServerListSeparatedBySemicolon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server1;server2</Value>
+    </Setting>
+    <Setting Name="ExecutableName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gestion.exe</Value>
+    </Setting>
+    <Setting Name="ApplicationSharedPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">partage\chemin</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
